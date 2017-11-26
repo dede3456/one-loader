@@ -4,6 +4,12 @@ const parse = require('./parse').default;
 const { getRequire } = require('./require');
 const defaultOptions = require('./options');
 
+/*
+toto titi tata
+kiki koko kaka
+gege gaga gigi
+*/
+
 /**
  * ComponentOne Loader
  *
