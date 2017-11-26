@@ -6,7 +6,7 @@ const defaultOptions = require('./options');
 
 /*
 toto titi tata
-kiki lala kaka
+kiki lili kaka
 gege gaga gigi
 */
 
